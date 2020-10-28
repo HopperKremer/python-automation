@@ -1,4 +1,5 @@
 #! python3
+# TODO trigger python script from React Native app
 # mapIt.py - Launches a map in the browser using an address from the
 # command line or clipboard.
 import webbrowser
